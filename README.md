@@ -1,3 +1,11 @@
+## Safety-constrained LiDAR positioning with prior map
+    - this package is based on the FLOAM and we fully respect their contributions
+
+### To do lists
+    - update the map with the ground truth pose from the SPAN-CPT
+    - evaluate the integrity of the LiDAR matching
+
+
 # FLOAM 
 ## Fast LOAM (Lidar Odometry And Mapping)
 
